@@ -1,1 +1,2 @@
 # Dive-in-systems-note
+This repository is my notes for reading the book [Dive Into Systems](https://diveintosystems.org/book/introduction.html), as well as a try out for using the [Quarto](https://quarto.org/docs/tools/vscode.html) tool for documentation.

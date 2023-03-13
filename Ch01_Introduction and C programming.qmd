@@ -1,0 +1,21 @@
+---
+title: "Introduction"
+format:
+  html:
+    code-fold: true
+jupyter: python3
+---
+
+A **computer system** includes hardware and system software.
+- hardware : IO ports, CPU, RAM, disks
+- OS lies between hardware and application (software that a user runs on the computer). OS implements abstractions, policies, and mechanisms to ensure that multiple programs can simultaneously run on the system in an efficient, protected, and seamless manner.
+
+How a computer runs a program?
+- program data gets encoded into binary
+- complier translates C programs into assembly and binary machine code. **Note**: assembly is the human-readable form of binary machine code.
+- CPU executes binary instructions on binary program data, from basic logic gates to complex circuits that store values, perform arithmetic, and control program execution.
+- OS implements interface for users to run programs on the system and it controls program execution while managing the system's resources.
+
+Terminology: GNU C complier (GCC)
+
+# Input/Output (printf and scanf)
